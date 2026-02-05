@@ -21,9 +21,10 @@ console.log(typeof bigNumber);
     
 // }
 
-let myObj={
-    surname:"toms",
-    age:20,
-};
+// let myObj={
+//     surname:"toms",
+//     age:20,
+// };
+
 
 
